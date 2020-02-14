@@ -6,7 +6,7 @@
 
 ## 공공도서관 현황
 
-<img src="../img/libaraynumber.jpg">
+<img width="516px" height="195px" src="../img/libaraynumber.jpg">
 
 ## website name: KoReaders
 
