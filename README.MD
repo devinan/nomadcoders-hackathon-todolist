@@ -43,7 +43,7 @@
 
 ### Task
 
-- [Planning](planning)
+- [Planning](planning/plan.md)
 
 - [Design](Design)
 
